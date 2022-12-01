@@ -206,7 +206,7 @@ const AlertDialogSlide = () => {
         }
           enterDelay={600}  >
 
-          <img alt='o' src={logo3} width="100%" onClick={handleClickOpen} className="bl4" />
+          <img alt='o' src={logo3} onClick={handleClickOpen} className="bl4" />
 
         </Tooltip>
       </MouseParallaxChild>

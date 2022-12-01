@@ -30,11 +30,11 @@ const  App=()=> {
 <div className='main'>  <img  src={logo1}  alt='map'   className='img2' />
         
         <img  src={logo}  alt='map'   className='img1' /></div>
+     
+      </div>
       <div className='assets-main'>
         <SimpleDialogDemo     /> 
         </div> 
-      </div>
-
 
    
              <div  className='nav123'>
